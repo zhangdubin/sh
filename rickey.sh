@@ -217,7 +217,7 @@ while true; do
 clear
 
 echo -e "\033[96m_  _ ____  _ _ _    _ ____ _  _ "
-echo "___"
+echo " ___"
 echo "|___|"
 echo "| \_ "
 echo "                                "
